@@ -1,0 +1,49 @@
+.navegador
+{
+    background-color: lightgrey; 
+    text-align: center;
+    border: 2px solid black;
+    width: 600px;
+    height: auto;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+
+    /*
+    margin: 50px 100px 50px 100px;
+    margin-top: 50px;
+    margin-right: 100px;
+    margin-bottom: 50px;
+    margin-left: 100px;
+    */
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+.anclas
+{
+    text-decoration: none;
+    color: black;
+    font-family: 'Dancing Script', cursive;    
+    margin-right: 10px;
+}
+
+.sec
+{
+    width: 800px;
+    height: 400px;
+    background-color: antiquewhite; 
+    margin: auto;
+    margin-top: 50px;
+}
+
+.footer
+{
+    margin: auto;
+    text-align: center;
+    background-color: lightgrey;
+}
+
+.div
+{
+    font-family: 'Dancing Script', cursive;  
+}
