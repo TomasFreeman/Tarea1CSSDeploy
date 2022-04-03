@@ -1,9 +1,9 @@
 .navegador
 {
     background-color: lightgrey; 
-    text-align: center;
+    text-align: right;
     border: 2px solid black;
-    width: 600px;
+    width: auto;
     height: auto;
     margin: auto;
     margin-top: 50px;
